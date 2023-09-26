@@ -1,6 +1,6 @@
 import * as dotenv from "dotenv";
 import app from './app';
-import { AppDataSource } from "../database/data-source";
+import { AppDataSource } from "./database/data-source";
 
 
 
